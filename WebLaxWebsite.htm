@@ -1,0 +1,39 @@
+ <!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<h1 style="text-align:center;font-size:400%;">Supa Cool Website</h1>
+
+<div>
+<img src="Ben Lax.jpg" alt="Ben Playing Lax" style="float:right;width:700px;hieght;600px;">
+
+<span style="font-size:125%;"> This image depicts me playing lax. Do you see ? Do you see ? Do you see ? This is the second element required of the main foundationl elements of this assignment. This second element is to display text to the left of a image on my website thing. I got to be careful that my image is to the right of the text and that my spelling is bad. I have succeded in both. Just like me playing lacrosse. Do you see? </span>
+
+</div>
+
+<hr>
+
+<p style="color:red;font-size:200%;"> RED OR DEAD BABYYYY WEEEEOOOOOO!!! FTM!!</P>
+
+<hr>
+
+<p style="text-align:center;"> This sport helps me keep a healthy </p> <p style="background-color:tomato;text-align:center;"> V&#x0307;O<sub>2</sub> Max (with dot). </p> 
+<p style="text-align:center;"> <sub>Yum,</sub> <sup>some</sup> <sub>good</sub> <sup>oxygen</sup> <sub>in</sub> <sup>my</sup> <sub>Lungs</sub></p>
+<br>
+
+<a href="https://github.com/BenLutzko/KNES381/blob/main/readme.md" target="_blank">Come See My Readme File</a>
+
+
+<br><br>
+<a href="file:///C:\Users\Ben Lutzko\Pictures\Camera Roll\IMG_0028.JPG" target="_blank">EEORRRRRRRRR</a>
+
+
+
+
+
+</body>
+</html> 
+
+
