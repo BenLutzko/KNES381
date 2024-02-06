@@ -6,7 +6,7 @@ This image depicts me playing lax. Do you see? Do you see? Do you see? This is t
 
 ---
 
-<span style="color:red;">RED OR DEAD BABYYYY WEEEEOOOOOO!!! FTM!!</span>
+**RED OR DEAD BABYYYY WEEEEOOOOOO!!! FTM!!**
 
 ---
 
@@ -16,4 +16,5 @@ Yum, some good oxygen in my lungs
 
 [Come See My Readme File](https://github.com/BenLutzko/KNES381/blob/main/readme.md)
 
-[EEORRRRRRRRR](file:///C:\Users\Ben Lutzko\Pictures\Camera
+[EEORRRRRRRRR](file:///C:/Users/Ben%20Lutzko/Pictures/Camera%20Roll/IMG_0028.JPG)
+
